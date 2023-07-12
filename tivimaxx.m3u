@@ -2099,6 +2099,319 @@ http://202.176.3.76:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DD FREE DISH ", Zee Ganga
 http://202.176.3.76:8000/play/a00h/index.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", 9XM
+http://202.176.3.76:8000/play/a006
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", AASTHA
+http://202.176.3.76:8000/play/a01b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", AASTHA GUJARATI
+http://202.176.3.76:8000/play/a03s
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", ABP News
+http://202.176.3.76:8000/play/a020
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", ABZY COOL
+http://202.176.3.76:8000/play/a00b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", ABZY MOVIES
+http://202.176.3.76:8000/play/a00y
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Aaj Tak
+http://202.176.3.76:8000/play/a01z
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Aastha Bhajan
+http://202.176.3.76:8000/play/a03e
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", B4U BHOJPURI
+http://202.176.3.76:8000/play/a00c
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", B4U KADAK
+http://202.176.3.76:8000/play/a018
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", B4U Movies
+http://202.176.3.76:8000/play/a00d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", B4U Music
+http://202.176.3.76:8000/play/a01u
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", BANSAL NEWS
+http://202.176.3.76:8000/play/a03k
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", BTV WORLD
+http://202.176.3.76:8000/play/a03t
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Bharat 24 vision of New India
+http://202.176.3.76:8000/play/a01q
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Bhojpuri Cinema
+http://202.176.3.76:8000/play/a00w
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Big Magic
+http://202.176.3.76:8000/play/a017
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", CHUMBAK TV
+http://202.176.3.76:8000/play/a01j
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Chardikla Time TV
+http://202.176.3.76:8000/play/a03f
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Cineplex Bollywood
+http://202.176.3.76:8000/play/a010
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Arunprabha
+http://202.176.3.76:8000/play/a02o
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Assam
+http://202.176.3.76:8000/play/a02m
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD BIHAR
+http://202.176.3.76:8000/play/a02c
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Bangla
+http://202.176.3.76:8000/play/a02p
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Bharati
+http://202.176.3.76:8000/play/a029
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD CHHATTISGARH
+http://202.176.3.76:8000/play/a02g
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Chandana
+http://202.176.3.76:8000/play/a02i
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD GOA
+http://202.176.3.76:8000/play/a02v
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Girnar
+http://202.176.3.76:8000/play/a009
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD HD
+http://202.176.3.76:8000/play/a03a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Haryana
+http://202.176.3.76:8000/play/a02w
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Himachal Pradesh
+http://202.176.3.76:8000/play/a03i
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Himachal Pradesh
+http://202.176.3.76:8000/play/a02x
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD INDIA
+http://202.176.3.76:8000/play/a003
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD JHARKHAND
+http://202.176.3.76:8000/play/a02d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD KISAN
+http://202.176.3.76:8000/play/a005
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Kashir
+http://202.176.3.76:8000/play/a02h
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD MP
+http://202.176.3.76:8000/play/a02e
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Malayalam
+http://202.176.3.76:8000/play/a02l
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Manipur
+http://202.176.3.76:8000/play/a03o
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Meghalaya
+http://202.176.3.76:8000/play/a03n
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Mizoram
+http://202.176.3.76:8000/play/a03q
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Nagaland
+http://202.176.3.76:8000/play/a03p
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD National
+http://202.176.3.76:8000/play/a004
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD News
+http://202.176.3.76:8000/play/a01r
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Oriya
+http://202.176.3.76:8000/play/a02n
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Podhigai
+http://202.176.3.76:8000/play/a00n
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Punjabi
+http://202.176.3.76:8000/play/a00o
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD RAJASTHAN
+http://202.176.3.76:8000/play/a02a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD SPORTS
+http://202.176.3.76:8000/play/a02b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Sahyadri
+http://202.176.3.76:8000/play/a00p
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Saptagiri
+http://202.176.3.76:8000/play/a02k
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD TRIPURA
+http://202.176.3.76:8000/play/a02f
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD UP
+http://202.176.3.76:8000/play/a028
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD UTTARAKHAND
+http://202.176.3.76:8000/play/a02j
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Urdu
+http://202.176.3.76:8000/play/a03w
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DD Yadagiri
+http://202.176.3.76:8000/play/a027
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DHINCHAAK
+http://202.176.3.76:8000/play/a00i
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", DIL SE MOVIES
+http://202.176.3.76:8000/play/a024
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Dangal
+http://202.176.3.76:8000/play/a00v
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Dangal 2
+http://202.176.3.76:8000/play/a013
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Dhamaka Movies B4U
+http://202.176.3.76:8000/play/a00f
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Enter10
+http://202.176.3.76:8000/play/a01h
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", FILAMCHI BHOJPURI
+http://202.176.3.76:8000/play/a01c
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Fakt Marathi
+http://202.176.3.76:8000/play/a00q
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", GOLDMINES MOVIES
+http://202.176.3.76:8000/play/a01i
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", GOOD NEWS TODAY
+http://202.176.3.76:8000/play/a00e
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Goldmines
+http://202.176.3.76:8000/play/a00z
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Goldmines Bollywood
+http://202.176.3.76:8000/play/a011
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", ISHARA TV
+http://202.176.3.76:8000/play/a00a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", India TV
+http://202.176.3.76:8000/play/a01v
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", KBS WORLD
+http://202.176.3.76:8000/play/a03u
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", MANORANJAN GRAND
+http://202.176.3.76:8000/play/a00l
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", MH 1 DIL SE
+http://202.176.3.76:8000/play/a02y
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", MTV Beats
+http://202.176.3.76:8000/play/a01s
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Manoranjan Movies
+http://202.176.3.76:8000/play/a016
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Manoranjan Prime
+http://202.176.3.76:8000/play/a00j
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Manoranjan TV
+http://202.176.3.76:8000/play/a019
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Masti
+http://202.176.3.76:8000/play/a01t
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Movie Plus
+http://202.176.3.76:8000/play/a015
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", NAZARA
+http://202.176.3.76:8000/play/a007
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", NDTV India
+http://202.176.3.76:8000/play/a01f
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", News 18 India
+http://202.176.3.76:8000/play/a01n
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", News 18 UP/UK
+http://202.176.3.76:8000/play/a03m
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", News Nation
+http://202.176.3.76:8000/play/a01w
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Popular TV
+http://202.176.3.76:8000/play/a025
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", RISHTEY CINEPLEX
+http://202.176.3.76:8000/play/a014
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", RT
+http://202.176.3.76:8000/play/a02q
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Republic Bharat
+http://202.176.3.76:8000/play/a01y
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", SANSAD  TV (RAJYA SABHA)
+http://202.176.3.76:8000/play/a00t
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", SANSAD TV
+http://202.176.3.76:8000/play/a00s
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", SHEMAROO TV
+http://202.176.3.76:8000/play/a00u
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", SHRADDHA MH ONE
+http://202.176.3.76:8000/play/a03d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", STAR GOLD THRILLS
+http://202.176.3.76:8000/play/a01g
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Sanskar TV
+http://202.176.3.76:8000/play/a01k
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Shemaroo Marathibana
+http://202.176.3.76:8000/play/a00m
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Shemaroo Umang
+http://202.176.3.76:8000/play/a00g
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Sony Wah
+http://202.176.3.76:8000/play/a01p
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Sports18 Khel
+http://202.176.3.76:8000/play/a00r
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Star Utsav Movies
+http://202.176.3.76:8000/play/a01m
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Sudarshan News
+http://202.176.3.76:8000/play/a03l
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Sun Marathi
+http://202.176.3.76:8000/play/a008
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Swadesh News
+http://202.176.3.76:8000/play/a03x
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", TV9 Bharatvarsh
+http://202.176.3.76:8000/play/a01a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Times Now Navbharat
+http://202.176.3.76:8000/play/a01x
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", UNIQUE TV
+http://202.176.3.76:8000/play/a01d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", VEDIC
+http://202.176.3.76:8000/play/a03r
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", ZEE ANMOL CINEMA
+http://202.176.3.76:8000/play/a01e
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", ZEE Chitra Mandir
+http://202.176.3.76:8000/play/a022
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", ZEE News
+http://202.176.3.76:8000/play/a021
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", ZEE Punjabi
+http://202.176.3.76:8000/play/a023
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", ZING
+http://202.176.3.76:8000/play/a01o
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Zee Biskope
+http://202.176.3.76:8000/play/a00x
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Channel ", Zee Ganga
+http://202.176.3.76:8000/play/a00h
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Andhra
+http://202.176.3.76:8000/play/a04j
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Arunachal
+http://202.176.3.76:8000/play/a059
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Assam
+http://202.176.3.76:8000/play/a054
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Bihar
+http://202.176.3.76:8000/play/a04r
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Chhattisgarh
+http://202.176.3.76:8000/play/a055
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Darbhanga
+http://202.176.3.76:8000/play/a05h
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Goa
+http://202.176.3.76:8000/play/a04m
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Gujrat
+http://202.176.3.76:8000/play/a04l
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Haryana
+http://202.176.3.76:8000/play/a04i
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Himachal
+http://202.176.3.76:8000/play/a05c
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Hindi
+http://202.176.3.76:8000/play/a04v
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Jammu
+http://202.176.3.76:8000/play/a05d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Kerala
+http://202.176.3.76:8000/play/a053
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Ladakh
+http://202.176.3.76:8000/play/a05b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Live News
+http://202.176.3.76:8000/play/a04d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR MP
+http://202.176.3.76:8000/play/a04s
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Maharashtra
+http://202.176.3.76:8000/play/a04f
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Manipur
+http://202.176.3.76:8000/play/a04k
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Meghalaya
+http://202.176.3.76:8000/play/a056
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Mizoram
+http://202.176.3.76:8000/play/a058
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR NE Service
+http://202.176.3.76:8000/play/a04w
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Nagaland
+http://202.176.3.76:8000/play/a057
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Nazibabad
+http://202.176.3.76:8000/play/a05i
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Odisha
+http://202.176.3.76:8000/play/a052
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Portblair
+http://202.176.3.76:8000/play/a04y
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Puducherry
+http://202.176.3.76:8000/play/a04o
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Punjab
+http://202.176.3.76:8000/play/a04n
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Ragam
+http://202.176.3.76:8000/play/a051
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Rajasthan
+http://202.176.3.76:8000/play/a04z
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Sikkim
+http://202.176.3.76:8000/play/a050
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Srinagar
+http://202.176.3.76:8000/play/a04p
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Tamilnadu
+http://202.176.3.76:8000/play/a04g
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Telangana
+http://202.176.3.76:8000/play/a04e
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Tripura
+http://202.176.3.76:8000/play/a05a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR UP
+http://202.176.3.76:8000/play/a04q
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR Uttarakhand
+http://202.176.3.76:8000/play/a04x
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", AIR West Bengal
+http://202.176.3.76:8000/play/a04u
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", Air Karnataka
+http://202.176.3.76:8000/play/a04t
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", FM Gold Delhi
+http://202.176.3.76:8000/play/a05g
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", FM Rainbow Delhi
+http://202.176.3.76:8000/play/a05f
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", Gyan Vani
+http://202.176.3.76:8000/play/a05e
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Redio Channel", Vividh Bharati
+http://202.176.3.76:8000/play/a04h
 
 
 
